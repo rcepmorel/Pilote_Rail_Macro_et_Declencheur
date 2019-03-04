@@ -4,4 +4,4 @@ Interface WEB pour la commande.
 
 Système motorisé pour la prise de photos en vue d’un empilement en fonction de la mise au point (focus stacking). En macrophotographie, souvent la zone de netteté ne couvre qu’une petite partie du sujet. Plusieurs clichés sont requis pour couvrir le sujet au complet. Les photos capturées sont combinées pour obtenir une photo finale dont l’ensemble du sujet est au foyer. Le circuit comprend le déclencheur de l’appareil photo. Un flash peut aussi être déclenché simultanément.
 
-Détail : https://espacerm.com/webgen/rail-motorise-pour-la-macrophotographie-et-declencheur/
+Détails : https://espacerm.com/webgen/rail-motorise-pour-la-macrophotographie-et-declencheur/
